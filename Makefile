@@ -1,0 +1,1 @@
+gcc reciver.cpp -o reciver -I vcpkg/packages/cpr_x64-linux/include -I /usr/include/curl -L vcpkg/packages/cpr_x64-linux/lib -l cpr -l curl
